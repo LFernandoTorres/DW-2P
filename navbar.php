@@ -1,9 +1,3 @@
-<?php 
-// session_start();
-// error_reporting(0);
-// $varsesion=$_SESSION['usuarios'];
-// if (isset($varsesion)) {
-    ?>
 <!doctype html>
 <html lang="en">
 <head>
@@ -78,8 +72,3 @@
       </nav>
 </body>
 </html>
-<?php 
-// }else{
-// header("location:index.php");
-// }
-?>
