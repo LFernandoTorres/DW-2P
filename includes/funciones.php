@@ -548,7 +548,8 @@ function carga_foto(){
 					error_reporting(0);
 					$_SESSION['usuarios']=$correo;
 					echo $correo;
-					echo $_SESSION['usuarios'];				
+					echo $_SESSION['usuarios'];	
+					
 					echo "El Usuario y Password son Correctos [ACESSO-01]"	;
 				}
 			}
